@@ -5,6 +5,7 @@ Do not copy this and the following, only what's above this.
 
 About it
 The spacesuit is designed to be used in space, allowing the ability to move up and down, along with anchoring yourself to stop all motion.
+
 Controlling it
 The green button moves you up.
 The red button moves you down.
